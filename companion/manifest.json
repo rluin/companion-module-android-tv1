@@ -1,8 +1,8 @@
 {
-	"id": "android-tv",
-	"name": "androidtv",
-	"shortname": "androidtv",
-	"description": "Android TV plugin for Companion",
+	"id": "android-tv1",
+	"name": "androidtv1",
+	"shortname": "androidtvrl",
+	"description": "Android TV plugin for Companion rl",
 	"version": "0.0.0",
 	"license": "MIT",
 	"repository": "git+https://github.com/bitfocus/companion-module-android-tv.git",
@@ -19,7 +19,7 @@
 		"apiVersion": "0.0.0",
 		"entrypoint": "../main.js"
 	},
-	"legacyIds": ["companion-module-android-tv"],
+	"legacyIds": ["companion-module-android-tv1"],
 	"manufacturer": "Google",
 	"products": ["androidtv"],
 	"keywords": ["TV"],
